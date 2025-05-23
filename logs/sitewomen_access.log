@@ -1,0 +1,1 @@
+192.168.65.1 - - [23/May/2025:14:27:38 +0000] "GET / HTTP/1.1" 500 145 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36"
